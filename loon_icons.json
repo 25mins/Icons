@@ -7,10 +7,10 @@
     {"name":"approve", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/approve.png"},
     {"name":"circle", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/circle.png"},
     {"name":"global", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/global.png"},
-//    {"name":"hand", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/hand.png"},
-//    {"name":"hand-2", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/hand-2.png"}
+"_comment":"{"name":"hand", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/hand.png"},"
+"_comment":"{"name":"hand-2", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/hand-2.png"}"
     {"name":"noad", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/noad.png"}
-// ------ airplane ------ 
+"_comment":"------ airplane ------ "
     {"name":"aca", "url":"https://raw.githubusercontent.com/25mins/Icons/main/loon_icons/aca.jpg"},
     {"name":"阿拉丁", "url":"https://raw.githubusercontent.com/25mins/Icons/main/loon_icons/ald.jpg"},
     {"name":"amy", "url":"https://raw.githubusercontent.com/25mins/Icons/main/loon_icons/amy.jpg"},
