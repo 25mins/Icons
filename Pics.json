@@ -2,13 +2,13 @@
 "description":"By FebRay", 
 "time":"230712", 
 "icons":[
-    {"name":"OpenAI-green", "url":"https://raw.githubusercontent.com/FebRay/Icons/main/Pics/OpenAI-green.png"},
-    {"name":"approve-2", "url":"https://raw.githubusercontent.com/FebRay/Icons/main/Pics/approve-2.png"},
-    {"name":"approve", "url":"https://raw.githubusercontent.com/FebRay/Icons/main/Pics/approve.png"},
-    {"name":"circle", "url":"https://raw.githubusercontent.com/FebRay/Icons/main/Pics/circle.png"},
-    {"name":"global", "url":"https://raw.githubusercontent.com/FebRay/Icons/main/Pics/global.png"},
-    {"name":"hand", "url":"https://raw.githubusercontent.com/FebRay/Icons/main/Pics/hand.png"},
-    {"name":"hand-2", "url":"https://raw.githubusercontent.com/FebRay/Icons/main/Pics/hand-2.png"}
-    {"name":"noad", "url":"https://raw.githubusercontent.com/FebRay/Icons/main/Pics/noad.png"}
+    {"name":"OpenAI-green", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/OpenAI-green.png"},
+    {"name":"approve-2", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/approve-2.png"},
+    {"name":"approve", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/approve.png"},
+    {"name":"circle", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/circle.png"},
+    {"name":"global", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/global.png"},
+    {"name":"hand", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/hand.png"},
+    {"name":"hand-2", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/hand-2.png"}
+    {"name":"noad", "url":"https://raw.githubusercontent.com/25mins/Icons/main/Pics/noad.png"}
         ]
 }
